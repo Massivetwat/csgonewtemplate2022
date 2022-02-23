@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csgomemtemplate", "csgomemtemplate\csgomemtemplate.csproj", "{6ECFB326-D089-423F-98E1-C1D9DB468D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECFB326-D089-423F-98E1-C1D9DB468D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECFB326-D089-423F-98E1-C1D9DB468D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECFB326-D089-423F-98E1-C1D9DB468D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECFB326-D089-423F-98E1-C1D9DB468D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {694B5705-A75B-4096-81CE-CB5F28CDB4E0}
+	EndGlobalSection
+EndGlobal
